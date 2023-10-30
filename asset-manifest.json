@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pushpa-fashions/static/css/main.799128c8.css",
+    "main.js": "/pushpa-fashions/static/js/main.b41e3ad9.js",
+    "static/media/3.jpg": "/pushpa-fashions/static/media/3.ec6ea201d7b938a316c5.jpg",
+    "static/media/1.jpg": "/pushpa-fashions/static/media/1.eb4013db27e3ad860a6a.jpg",
+    "static/media/8.jpg": "/pushpa-fashions/static/media/8.6f8e0267f1d4ca455268.jpg",
+    "static/media/2.jpg": "/pushpa-fashions/static/media/2.eaf995ba003745f5271a.jpg",
+    "static/media/5.jpg": "/pushpa-fashions/static/media/5.982fc81635e9712991cf.jpg",
+    "index.html": "/pushpa-fashions/index.html",
+    "main.799128c8.css.map": "/pushpa-fashions/static/css/main.799128c8.css.map",
+    "main.b41e3ad9.js.map": "/pushpa-fashions/static/js/main.b41e3ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799128c8.css",
+    "static/js/main.b41e3ad9.js"
+  ]
+}
