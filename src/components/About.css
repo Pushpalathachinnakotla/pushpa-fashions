@@ -1,0 +1,26 @@
+.about{
+    width: 90%;
+    height: 75vh;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.about p{
+    color: blueviolet;
+}
+.about h1{
+    color:rgb(30, 12, 228);
+    text-decoration: overline;
+}
+.about span{
+    color: rgb(255, 0, 242);
+}
+.about h5{
+    color: rgb(214, 85, 85);
+}
+
+.about i{
+    color: rgb(181, 77, 77);
+}
+.a i{
+    color:rgb(65, 189, 98);
+}

@@ -1,0 +1,51 @@
+.course{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 20px;
+    background:linear-gradient(rgba(184, 190, 120, 0.332),rgba(193, 212, 123, 0.843));
+    display: flex;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: 5px solid rgb(218, 18, 178);
+}
+
+
+
+.course>h1{
+    width: 100%;
+    text-align: center;
+    color: rgb(12, 30, 221);
+}
+.card{
+    width:40%;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   background: linear-gradient(to bottom right,rgb(228, 96, 182),rgba(243, 48, 194, 0.46),rgb(220, 33, 211),rgba(233, 39, 223, 0.414),rgb(226, 44, 192));
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    border: 2px solid black;
+}
+.img{
+    width: 70px;
+    height:70px;
+    
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+.card h1{
+    font-size: 25px;
+    color: rgb(10, 20, 10);
+}
+.card h2{
+    font-size: 20px;
+    color: rgb(53, 14, 225);
+}
