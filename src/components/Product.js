@@ -111,10 +111,10 @@ let Product = () => {
         ))}
         <div className="total-price">
           <p>
-            <span>Total Quantity:</span><p> {cart.reduce((total, item) => total + (item.quantity || 1), 0)}</P>
+            <span>Total Quantity:</span>{cart.reduce((total, item) => total + (item.quantity || 1), 0)}
           </p>
           <p>
-            <span>Overall Price:</span><p> {totalPrice}</p>
+            <span>Overall Price:</span> {totalPrice}
           </p>
         </div>
       </div>
