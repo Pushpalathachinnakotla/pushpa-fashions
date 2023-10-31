@@ -94,6 +94,7 @@ span{
     align-items: center;
 }
 
-.cont1 .para{
-    color: aqua;
+.total-price{
+    color:red;
+    font-size: 40px;
 }
